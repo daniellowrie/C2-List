@@ -1,9 +1,9 @@
 # C2-List
-List of Command&amp;Control (C2) software
+List of Open-Source Command&amp;Control (C2) software
 
 ================================================================================
 
-Havoc           - https://github.com/HavocFramework/Havoc
+Havoc           - https://github.com/HavocFramework/Havoc<br>
 Silent Trinity  - https://github.com/byt3bl33d3r/SILENTTRINITY
 Pupy            - https://github.com/n1nj4sec/pupy
 Empire          - https://github.com/BC-SECURITY/Empire
