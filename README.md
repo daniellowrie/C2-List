@@ -15,6 +15,6 @@ PoshC2 - https://github.com/nettitude/PoshC2<br>
 Shad0w - https://github.com/bats3c/shad0w<br>
 Octopus - https://github.com/mhaskar/Octopus<br>
 Heroinn - https://github.com/b23r0/Heroinn<br>
-c2c2 - https://github.com/JohnHammond/c2c2
-DeimosC2 - https://github.com/DeimosC2/DeimosC2
+c2c2 - https://github.com/JohnHammond/c2c2<br>
+DeimosC2 - https://github.com/DeimosC2/DeimosC2<br>
 
