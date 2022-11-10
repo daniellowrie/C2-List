@@ -4,8 +4,8 @@ List of Open-Source Command&amp;Control (C2) software
 ================================================================================
 
 Havoc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- https://github.com/HavocFramework/Havoc<br>
-Silent Trinity  - https://github.com/byt3bl33d3r/SILENTTRINITY<br>
-Pupy            - https://github.com/n1nj4sec/pupy<br>
+Silent Trinity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- https://github.com/byt3bl33d3r/SILENTTRINITY<br>
+Pupy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- https://github.com/n1nj4sec/pupy<br>
 Empire          - https://github.com/BC-SECURITY/Empire<br>
 Covenant        - https://github.com/cobbr/Covenant<br>
 TrevorC2        - https://github.com/trustedsec/trevorc2<br>
