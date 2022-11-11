@@ -20,3 +20,10 @@ DeimosC2 - https://github.com/DeimosC2/DeimosC2<br>
 Khepri - https://github.com/geemion/Khepri<br>
 MicroBackdoor - https://github.com/Cr4sh/MicroBackdoor<br>
 Alan Framework - https://github.com/enkomio/AlanFramework<br>
+
+Cloud-Specific
+==================================================================================
+  
+Nebula - https://github.com/gl4ssesbo1/Nebula<br>
+
+
